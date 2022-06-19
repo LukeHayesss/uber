@@ -1,7 +1,10 @@
 # Uber
 Uber clone built using React Native, Redux, Tailwind CSS and Google Navigation API. Updates distance, travel time, and cost to travel, for three seperate tiers of Uber pricing. 
 
-# Screenshots
+# Screenshots and Recording
+
+
+https://user-images.githubusercontent.com/91355631/174464860-f404d7ac-aab4-454a-8827-a5065f946f35.MP4
 
 # Homepage
 
